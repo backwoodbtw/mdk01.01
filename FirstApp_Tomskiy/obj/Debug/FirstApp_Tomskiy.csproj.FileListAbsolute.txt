@@ -1,0 +1,62 @@
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.exe.config
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.exe
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.pdb
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\App.g.cs
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy_MarkupCompile.cache
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy_MarkupCompile.lref
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.g.resources
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.Properties.Resources.resources
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.exe
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.pdb
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\App.baml
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\Pages\PageAuthorisation.g.cs
+C:\Users\student\Desktop\ИСП.21.2А\FirstApp_Tomskiy\obj\Debug\Pages\PageAuthorisation.baml
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.exe.config
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.exe
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.pdb
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\Pages\PageAuthorisation.g.cs
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\Pages\PagePr1.g.cs
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy_MarkupCompile.cache
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy_MarkupCompile.lref
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\App.baml
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\Pages\PageAuthorisation.baml
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\Pages\PagePr1.baml
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.g.resources
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.Properties.Resources.resources
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.exe
+C:\Users\Студент\Desktop\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.pdb
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.exe.config
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.exe
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\bin\Debug\FirstApp_Tomskiy.pdb
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PageAuthorisation.g.cs
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PagePr1.g.cs
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy_MarkupCompile.cache
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy_MarkupCompile.lref
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\App.baml
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PageAuthorisation.baml
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PagePr1.baml
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.g.resources
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.Properties.Resources.resources
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.exe
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\FirstApp_Tomskiy.pdb
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PagePr6.g.cs
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PagePr6.baml
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PagePr2.g.cs
+C:\Users\Студент\Desktop\Фурзиков Томский (1)\FirstApp_Tomskiy\obj\Debug\Pages\PagePr2.baml
