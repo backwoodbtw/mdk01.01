@@ -27,7 +27,7 @@ namespace FirstApp_Tomskiy
             Classes.ClassFrame.frmObj = FrmMain;
 
             // переход на страницу авторизации
-            Classes.ClassFrame.frmObj.Navigate(new Pages.PageAuthorisation());
+            Classes.ClassFrame.frmObj.Navigate(new Pages.PagePr7());
         }
 
         private void BtnHello_Click(object sender, RoutedEventArgs e)
